@@ -1,2 +1,3 @@
 # datasciencecoursera
 classproject_12272015
+Wendy Steffensen
